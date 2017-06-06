@@ -1,0 +1,10 @@
+ÿ%                                                                                                                                                                                   test                                                                                                                                                                                                                                            ÿ%                                                                                                                                                                                   test\_%                                                                                                                                                                                                                                         2017-06-06 13:07:54 1912 [Note] Event Scheduler: Loaded 0 events
+2017-06-06 13:07:54 1912 [Note] C:\MAMP\\bin\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.6.34-log'  socket: ''  port: 8889  MySQL Community Server (GPL)
+2017-06-06 13:07:58 1912 [Note] C:\MAMP\\bin\mysql\bin\mysqld.exe: Normal shutdown
+
+2017-06-06 13:07:58 1912 [Note] Giving 0 client threads a chance to die gracefully
+2017-06-06 13:07:58 1912 [Note] Event Scheduler: Purging the queue. 0 events
+2017-06-06 13:07:58 1912 [Note] Shutting down slave threads
+2017-06-06 13:07:58 1912 [Note] Forcefully disconnecting 0 remaining clients
+2017-06-06 13:07:58 1912 [Note] Binlog end
