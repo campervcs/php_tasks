@@ -7,6 +7,7 @@ $("#form").submit(function(e) {
     url: 'phpfile.php',
         data: str,
    success: function(data) {
+       $('.inner').empty();
         $( ".inner" ).append( "<p>Сообщение</p></br>" );
         $( ".inner" ).append( "<p>"+data+"</p></br>" );
          
